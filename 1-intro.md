@@ -22,8 +22,6 @@
 
 **UX program managers :** Ensure clear and timely communication so that the process of building a useful product moves smoothly from start to finish (setting up goals and writing project plans
 
----
-
 **Products need to be :**
 
 - Useable
@@ -39,8 +37,6 @@
 
 - the framework of a website or how it’s organized, categorized and structured
 
----
-
 ## Type of Designers
 
 ### 1. Generalist Designer
@@ -51,8 +47,6 @@
 
 **How the Role Works:** They switch between different design tasks based on project demands, filling gaps and supporting various stages of the design process.
 
----
-
 ### 2. Specialist Designer
 
 **What It Is:** A designer who focuses deeply on one specific discipline (e.g., UX research, UI design, motion, illustration, typography).
@@ -61,8 +55,6 @@
 
 **How the Role Works:** They concentrate on tasks within their specialty and collaborate with other designers to integrate their expertise into the full product experience.
 
----
-
 ### 3. T-Shaped Designer
 
 **What It Is:** A designer who has broad knowledge across many areas (like a generalist) but also deep expertise in one core specialty.
@@ -70,8 +62,6 @@
 **Benefit:** Balances flexibility with strong craft, enabling them to collaborate broadly while owning a specialized skill area.
 
 **How the Role Works:** They contribute across the design workflow, leveraging their general knowledge, while taking lead responsibility for the part of the project tied to their deep specialty.
-
----
 
 ## Working with cross functional team
 
@@ -85,8 +75,6 @@ example : cross functional teams to build an app for ordering food :
 - **Visual designer** : Thinks about how to make it easy for users to find allergen free food in the product
 - Engineers : Brings wireframes and prototypes to life
 - Program manager : Ensure clear and timely communication across the team
-
----
 
 ## Understand design sprint
 
