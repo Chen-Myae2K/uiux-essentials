@@ -179,3 +179,4 @@ A sprint retrospective is a structured meeting held at the end of a sprint where
 **Outcome:**
 
 A list of actionable improvements to make future sprints more effective and productive.
+
